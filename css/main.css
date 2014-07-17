@@ -14,6 +14,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   background-color: #fdfdfd;
+  margin-top: 75px;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
@@ -42,9 +43,12 @@ a:visited { color: #205caa; }
 
 .site-header {
   border-top: 5px solid #333;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;`
   min-height: 56px;
-  background-color: white;
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
 
 .site-title,
