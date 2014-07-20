@@ -87,11 +87,18 @@ a:visited { color: #205caa; }*/
   float: left;
   margin-left: -300px;
   
-  background: url(/images/logodiv.png) no-repeat scroll right top transparent
+  /*background: url(/images/logodiv.png) no-repeat scroll right top transparent*/
 }
 .site-nav {
   float: right;
   line-height: 56px;
+}
+
+.header-nav-bar{
+  clear:both;
+  margin-top: 110px;
+  height: 15px;
+  background-color: red;
 }
 
 .site-nav .menu-icon { display: none; }
