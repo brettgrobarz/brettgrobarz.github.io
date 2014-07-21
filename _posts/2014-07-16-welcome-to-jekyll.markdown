@@ -4,22 +4,11 @@ title:  "My Attempt at a Blog"
 date:   2014-07-20 20:10:00
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+I hope I can keep up with this, because life is moving super fast here in Austin, Texas. 
 
-Jekyll also offers powerful support for code snippets:
+I created this site so that I could share what life is like down here in Texas with all of my family members at home. Everyone seems to have a different view of Texas, and most of my relatives have never been here.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+So, I am going to use this blog to write blurbs to keep everyone updated on my life, as well as a live feed of photos from my instagram for the less tech-savvy ones (not everyone is as cool as my Mom with her instagram account).
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll]:    http://jekyllrb.com
-
+So excuse the typos, and enjoy a glimpse into my life down here in Austin!
 
