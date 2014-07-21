@@ -124,14 +124,14 @@ a:visited { color: #205caa; }*/
 
 .site-nav .menu-icon { display: none; }
 
-.site-nav .page-link {
+/*.site-nav .page-link {
   padding-top: 70px;
   font-size: 12px;
-  /*margin-left: 20px;*/
+  margin-left: 20px;
   color: white;
   letter-spacing: -.5px;
   float: right;
-}
+}*/
 
 /* Site footer */
 
@@ -415,6 +415,11 @@ a:visited { color: #205caa; }*/
 @media screen and (max-width: 600px) {
 
   .wrap { padding: 0 12px; }
+
+/*  .headerlink {
+    float: right;
+    margin-top: 75px;
+  }*/
 
  /* .site-nav {
     position: fixed;

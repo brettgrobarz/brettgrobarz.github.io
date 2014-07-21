@@ -10,6 +10,9 @@
 
     <div class="footer-col-2 column">
       <ul>
+        <li>{% for page in site.pages %}
+          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
+        {% endfor %}</li>
         {% if site.github_username %}<li>
           <a href="https://github.com/{{ site.github_username }}">
             <span class="icon github">
@@ -46,6 +49,7 @@
             <span class="username">{{ site.twitter_username }}</span>
           </a>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+
         </li>{% endif %}
       </ul>
     </div>
